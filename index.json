@@ -1,0 +1,260 @@
+{
+  "name": "My Jingle Pack",
+  "entries": [
+    {
+      "name": "Banjo Kazooie",
+      "file": "jingles/Banjo Kazooie.mp3",
+      "regex": "banjo.?kazooie"
+    },
+    {
+      "name": "Bishoujo Senshi Sailor Moon Another Story",
+      "file": "jingles/Bishoujo Senshi Sailor Moon Another Story.mp3",
+      "regex": "sailor.?moon.*(another.?story)?"
+    },
+    {
+      "name": "Celeste",
+      "file": "jingles/Celeste.mp3",
+      "regex": "^celeste$"
+    },
+    {
+      "name": "Circus Charlie",
+      "file": "jingles/Circus Charlie.mp3",
+      "regex": "circus.?charlie"
+    },
+    {
+      "name": "Clannad",
+      "file": "jingles/Clannad.mp3",
+      "regex": "^clannad$"
+    },
+    {
+      "name": "Cruis'n USA",
+      "file": "jingles/Cruis'n USA.mp3",
+      "regex": "cruis.?n.?usa"
+    },
+    {
+      "name": "Diddy Kong Racing",
+      "file": "jingles/Diddy Kong Racing.mp3",
+      "regex": "diddy.?kong.?racing"
+    },
+    {
+      "name": "Doki Doki Literature Club!",
+      "file": "jingles/Doki Doki Literature Club!.mp3",
+      "regex": "doki.?doki"
+    },
+    {
+      "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+      "file": "jingles/Donkey Kong Country 2 Diddy's Kong Quest.mp3",
+      "regex": "donkey.?kong.?country.?2"
+    },
+    {
+      "name": "Donkey Kong Country",
+      "file": "jingles/Donkey Kong Country.mp3",
+      "regex": "^donkey.?kong.?country$"
+    },
+    {
+      "name": "Duck Tales",
+      "file": "jingles/Duck Tales.mp3",
+      "regex": "duck.?tales"
+    },
+    {
+      "name": "FEZ",
+      "file": "jingles/FEZ.mp3",
+      "regex": "^fez$"
+    },
+    {
+      "name": "Fields of Mistria",
+      "file": "jingles/Fields of Mistria.mp3",
+      "regex": "fields.?of.?mistria"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "file": "jingles/FINAL FANTASY VII.mp3",
+      "regex": "final.?fantasy.?(vii|7)"
+    },
+    {
+      "name": "F-Zero",
+      "file": "jingles/F-Zero.mp3",
+      "regex": "f.?zero"
+    },
+    {
+      "name": "Genshin Impact",
+      "file": "jingles/Genshin Impact.mp3",
+      "regex": "genshin"
+    },
+    {
+      "name": "Kirby Super Star",
+      "file": "jingles/Kirby Super Star.mp3",
+      "regex": "kirby.?super.?star"
+    },
+    {
+      "name": "Little Goody Two Shoes",
+      "file": "jingles/Little Goody Two Shoes.mp3",
+      "regex": "little.?goody.?two.?shoes"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "file": "jingles/Luigi's Mansion.mp3",
+      "regex": "luigi.?s.?mansion"
+    },
+    {
+      "name": "Mario Kart 64",
+      "file": "jingles/Mario Kart 64.mp3",
+      "regex": "mario.?kart.?64"
+    },
+    {
+      "name": "Minecraft",
+      "file": "jingles/Minecraft.mp3",
+      "regex": "^minecraft$"
+    },
+    {
+      "name": "New Super Mario Bros. Wii",
+      "file": "jingles/New Super Mario Bros. Wii.mp3",
+      "regex": "new.?super.?mario.?bros.?.?wii"
+    },
+    {
+      "name": "Paper Mario",
+      "file": "jingles/Paper Mario.mp3",
+      "regex": "paper.?mario"
+    },
+    {
+      "name": "Persona 4 Golden",
+      "file": "jingles/Persona 4 Golden.mp3",
+      "regex": "persona.?4"
+    },
+    {
+      "name": "Shantae and the Pirate's Curse",
+      "file": "jingles/Shantae and the Pirate's Curse.mp3",
+      "regex": "shantae.*(pirate)"
+    },
+    {
+      "name": "Shin Megami Tensei: Persona 3 FES",
+      "file": "jingles/Shin Megami Tensei Persona 3 FES.mp3",
+      "regex": "persona.?3"
+    },
+    {
+      "name": "Shonen Jump: One Piece",
+      "file": "jingles/Shonen Jump One Piece.mp3",
+      "regex": "one.?piece"
+    },
+    {
+      "name": "Sonic Adventure 2",
+      "file": "jingles/Sonic Adventure 2.mp3",
+      "regex": "sonic.?adventure.?2"
+    },
+    {
+      "name": "Super Mario 64",
+      "file": "jingles/Super Mario 64.mp3",
+      "regex": "super.?mario.?64"
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "file": "jingles/Super Mario All-Stars.mp3",
+      "regex": "super.?mario.?all.?stars"
+    },
+    {
+      "name": "Super Mario Bros.: The Lost Levels",
+      "file": "jingles/Super Mario Bros. The Lost Levels.mp3",
+      "regex": "mario.?bros.*.lost.?levels"
+    },
+    {
+      "name": "Super Mario Land 2: 6 Golden Coins",
+      "file": "jingles/Super Mario Land 2 6 Golden Coins.mp3",
+      "regex": "mario.?land.?2"
+    },
+    {
+      "name": "Super Mario Land",
+      "file": "jingles/Super Mario Land.mp3",
+      "regex": "^(super.?)?mario.?land$"
+    },
+    {
+      "name": "Super Mario Sunshine",
+      "file": "jingles/Super Mario Sunshine.mp3",
+      "regex": "mario.?sunshine"
+    },
+    {
+      "name": "Super Mario World 2: Yoshi's Island",
+      "file": "jingles/Super Mario World 2 Yoshi's Island.mp3",
+      "regex": "yoshi.?s?.?island"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "file": "jingles/The Legend Of Zelda A Link to The Past.mp3",
+      "regex": "zelda.*(link.?to.?the.?past|alttp)"
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "file": "jingles/The Legend Of Zelda Breath of the Wild.mp3",
+      "regex": "zelda.*(breath|botw)"
+    },
+    {
+      "name": "The Legend of Zelda: Link's Awakening",
+      "file": "jingles/The Legend of Zelda Link's Awakening.mp3",
+      "regex": "zelda.*link.?s?.?awakening"
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask",
+      "file": "jingles/The Legend of Zelda Majora's Mask.mp3",
+      "regex": "zelda.*(majora)"
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "file": "jingles/The Legend of Zelda Ocarina of Time.mp3",
+      "regex": "zelda.*(ocarina|oot)"
+    },
+    {
+      "name": "The Legend of Zelda: Oracle of Ages",
+      "file": "jingles/The Legend of Zelda Oracle of Ages.mp3",
+      "regex": "zelda.*oracle.?of.?ages"
+    },
+    {
+      "name": "The Legend of Zelda: Phantom Hourglass",
+      "file": "jingles/The Legend of Zelda Phantom Hourglass.mp3",
+      "regex": "zelda.*phantom.?hourglass"
+    },
+    {
+      "name": "The Legend of Zelda: Skyward Sword",
+      "file": "jingles/The Legend of Zelda Skyward Sword.mp3",
+      "regex": "zelda.*skyward.?sword"
+    },
+    {
+      "name": "The Legend of Zelda: Spirit Tracks",
+      "file": "jingles/The Legend of Zelda Spirit Tracks.mp3",
+      "regex": "zelda.*spirit.?tracks"
+    },
+    {
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "file": "jingles/The Legend of Zelda Tears of the Kingdom.mp3",
+      "regex": "zelda.*(tears|totk)"
+    },
+    {
+      "name": "The Legend of Zelda: The Minish Cap",
+      "file": "jingles/The Legend of Zelda The Minish Cap.mp3",
+      "regex": "zelda.*minish.?cap"
+    },
+    {
+      "name": "The Legend of Zelda: The Wind Waker",
+      "file": "jingles/The Legend of Zelda The Wind Waker.mp3",
+      "regex": "zelda.*wind.?waker"
+    },
+    {
+      "name": "The Legend of Zelda: Twilight Princess",
+      "file": "jingles/The Legend of Zelda Twilight Princess.mp3",
+      "regex": "zelda.*twilight.?princess"
+    },
+    {
+      "name": "Touhou Luna Nights",
+      "file": "jingles/Touhou Luna Nights.mp3",
+      "regex": "touhou.*luna.?nights"
+    },
+    {
+      "name": "Wario Land: Super Mario Land 3",
+      "file": "jingles/Wario Land Super Mario Land 3.mp3",
+      "regex": "wario.?land"
+    },
+    {
+      "name": "WarioWare, Inc.: Mega Microgames!",
+      "file": "jingles/WarioWare, Inc. Mega Microgames!.mp3",
+      "regex": "warioware"
+    }
+  ]
+}
