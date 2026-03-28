@@ -42,9 +42,19 @@
       "regex": "doki.?doki"
     },
     {
+      "name": "Donkey Kong 64",
+      "file": "jingles/Donkey Kong 64.mp3",
+      "regex": "donkey.?kong.?64"
+    },
+    {
       "name": "Donkey Kong Country 2: Diddy's Kong Quest",
       "file": "jingles/Donkey Kong Country 2 Diddy's Kong Quest.mp3",
       "regex": "donkey.?kong.?country.?2"
+    },
+    {
+      "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+      "file": "jingles/Donkey Kong Country 3 Dixie Kong's Double Trouble!.mp3",
+      "regex": "donkey.?kong.?country.?3"
     },
     {
       "name": "Donkey Kong Country",
@@ -82,6 +92,11 @@
       "regex": "genshin"
     },
     {
+      "name": "Gravity Rush",
+      "file": "jingles/Gravity Rush.mp3",
+      "regex": "gravity.?rush"
+    },
+    {
       "name": "Kirby Super Star",
       "file": "jingles/Kirby Super Star.mp3",
       "regex": "kirby.?super.?star"
@@ -102,6 +117,16 @@
       "regex": "mario.?kart.?64"
     },
     {
+      "name": "Metroid Fusion",
+      "file": "jingles/Metroid Fusion.mp3",
+      "regex": "metroid.?fusion"
+    },
+    {
+      "name": "Metroid Zero Mission",
+      "file": "jingles/Metroid Zero Mission.mp3",
+      "regex": "metroid.?zero.?mission"
+    },
+    {
       "name": "Minecraft",
       "file": "jingles/Minecraft.mp3",
       "regex": "^minecraft$"
@@ -120,6 +145,16 @@
       "name": "Persona 4 Golden",
       "file": "jingles/Persona 4 Golden.mp3",
       "regex": "persona.?4"
+    },
+    {
+      "name": "Shantae",
+      "file": "jingles/Shantae.mp3",
+      "regex": "^shantae$"
+    },
+    {
+      "name": "Shantae Advance: Risky Revolution",
+      "file": "jingles/Shantae Advance Risky Revolution.mp3",
+      "regex": "shantae.*(advance|risky.?revolution)"
     },
     {
       "name": "Shantae and the Pirate's Curse",
@@ -152,6 +187,16 @@
       "regex": "super.?mario.?all.?stars"
     },
     {
+      "name": "Super Mario Bros.",
+      "file": "jingles/Super Mario Bros..mp3",
+      "regex": "^(super.?)?mario.?bros\\.?$"
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "file": "jingles/Super Mario Bros 2.mp3",
+      "regex": "mario.?bros.?\\.?2"
+    },
+    {
       "name": "Super Mario Bros.: The Lost Levels",
       "file": "jingles/Super Mario Bros. The Lost Levels.mp3",
       "regex": "mario.?bros.*.lost.?levels"
@@ -175,6 +220,11 @@
       "name": "Super Mario World 2: Yoshi's Island",
       "file": "jingles/Super Mario World 2 Yoshi's Island.mp3",
       "regex": "yoshi.?s?.?island"
+    },
+    {
+      "name": "Super Metroid",
+      "file": "jingles/Super Metroid.mp3",
+      "regex": "^super.?metroid$"
     },
     {
       "name": "The Legend of Zelda: A Link to the Past",
@@ -255,6 +305,11 @@
       "name": "WarioWare, Inc.: Mega Microgames!",
       "file": "jingles/WarioWare, Inc. Mega Microgames!.mp3",
       "regex": "warioware"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "file": "jingles/Zelda II The Adventure of Link.mp3",
+      "regex": "zelda.*(ii|2|adventure.?of.?link)"
     }
   ]
 }
